@@ -7,7 +7,7 @@ Front-End Developer
 🚀 28 years old, expanding knowledge in Front-End and Frameworks, I'm studying: JavaScript, ReactJs, PHP, JAVA, PostgreSQL and Laravel.
 
 * 🌍  I'm based in Salvador
-* 🖥️  See my portfolio at [MouraYuri93](http://master.d3uk1l5qdanrdo.amplifyapp.com)
+* 🖥️  See my portfolio at [MouraYuri93](https://master.d3uk1l5qdanrdo.amplifyapp.com/)
 * ✉️  You can contact me at [mourayuri93@gmail.com](mailto:mourayuri93@gmail.com)
 
 ### Skills
