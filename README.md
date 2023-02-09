@@ -4,7 +4,7 @@ Hi 👋 My name is Yuri Moura
 Front-End Developer
 -------------------
 
-🚀 28 years old, expanding knowledge in Front-End and Frameworks, I'm studying: JavaScript, ReactJs, PHP, JAVA, PostgreSQL and Laravel.
+🚀 30 years old, expanding knowledge in Front-End and Frameworks, I'm studying: JavaScript, ReactJs, PHP, JAVA, PostgreSQL and Laravel.
 
 * 🌍  I'm based in Salvador
 * 🖥️  See my portfolio at [MouraYuri93](https://master.d3uk1l5qdanrdo.amplifyapp.com/)
